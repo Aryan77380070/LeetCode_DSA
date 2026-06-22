@@ -1,10 +1,10 @@
-🚀 NeetCode 150 Solutions
+🚀 NeetCode 250 Solutions
 
-This repository contains my solutions to the NeetCode 150, a curated list of 150 essential Data Structures and Algorithms problems from LeetCode. The goal of this repository is to strengthen problem-solving skills and prepare for coding interviews at top tech companies.
+This repository contains my solutions to the NeetCode 250, a curated list of 250 essential Data Structures and Algorithms problems from LeetCode. The goal of this repository is to strengthen problem-solving skills and prepare for coding interviews at top tech companies.
 
 📌 About
 
-The NeetCode 150 covers the most important DSA topics frequently asked in technical interviews. This repository serves as:
+The NeetCode 250 covers the most important DSA topics frequently asked in technical interviews. This repository serves as:
 
 - A personal coding journal.
 - A structured collection of solutions for revision.
@@ -90,7 +90,7 @@ Bit Manipulation
 
 🔗 Resources
 
-- NeetCode 150: https://neetcode.io/roadmap
+- NeetCode 250: https://neetcode.io/practice/practice/neetcode250
 - LeetCode: https://leetcode.com/
 
 ---
